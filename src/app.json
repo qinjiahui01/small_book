@@ -1,0 +1,42 @@
+{
+  "pages": [
+    "pages/books/main",
+    "pages/me/main",
+    "pages/history/main",
+    "pages/detail/main"
+  ],
+  "permission": {
+    "scope.userLocation": {
+      "desc": "你的地理位置信息将添加至评论信息中" 
+    }
+  },
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#EA5149",
+    "navigationBarTitleText": "小小书库",
+    "navigationBarTextStyle": "white"
+  },
+  "tabBar": {
+    "color": "#999",
+    "backgroundColor": "#fafafa",
+    "selectedColor": "#333",
+    "borderStyle": "white",
+
+    "list": [{
+      "text": "图书",
+      "pagePath": "pages/books/main",
+      "iconPath": "static/tabs/book.png",
+      "selectedIconPath": "static/tabs/book-active.png"
+    },{
+      "text":"历史",
+      "pagePath":"pages/history/main",
+      "iconPath":"static/tabs/history.png",
+      "selectedIconPath":"static/tabs/history-active.png"
+    },{
+      "text": "个人中心",
+      "pagePath": "pages/me/main",
+      "iconPath": "static/tabs/me.png",
+      "selectedIconPath": "static/tabs/me-active.png"
+    }]
+  }
+}
