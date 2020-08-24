@@ -72,8 +72,7 @@ export default {
             this.addBook(res.result)
           }
         },
-        fail: (err) => {
-          console.log(err, 'that')
+        fail: () => {
           showModal('添加失败', '没有获取到图书信息')
         }
       })

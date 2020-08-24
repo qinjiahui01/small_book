@@ -31,9 +31,6 @@ export default {
         })
       }
     }
-  },
-  mounted () {
-    console.log('CommentList')
   }
 }
 </script>
