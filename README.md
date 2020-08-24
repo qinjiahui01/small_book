@@ -40,7 +40,7 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 
 ## 首页
 
-![image-20200824161414411](assets/image-20200824161414411.png)
+![](assets/image-20200824165428003.png)
 
 
 
@@ -48,18 +48,18 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 
 ### 未评论
 
-![image-20200824161739921](assets/image-20200824161739921.png)
+![首页](https://github.com/qinjiahui01/small_book/blob/master/assets/image-20200824165428003.png)
 
-![image-20200824161713841](assets/image-20200824161713841.png)
+![image-20200824173958940](assets/image-20200824173958940.png)
 
 ### 已评论或未登录
 
-![image-20200824161848207](assets/image-20200824161848207.png)
+![image-20200824174018060](assets/image-20200824174018060.png)
 
 ## 历史记录
 
-![image-20200824162250898](assets/image-20200824162250898.png)
+![image-20200824174035168](assets/image-20200824174035168.png)
 
 ## 个人中心
 
-![image-20200824162336308](assets/image-20200824162336308.png)
+![image-20200824174044718](assets/image-20200824174044718.png)
