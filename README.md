@@ -40,7 +40,7 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 
 ## 首页
 
-![](assets/image-20200824165428003.png)
+![首页](assets/image-20200824165428003.png)
 
 
 
@@ -48,9 +48,9 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 
 ### 未评论
 
-![首页](https://github.com/qinjiahui01/small_book/blob/master/assets/image-20200824165428003.png)
+![图书详情页](/assets/image-20200824173936029.png)
 
-![image-20200824173958940](assets/image-20200824173958940.png)
+![图书详情页](assets/image-20200824180852557.png)
 
 ### 已评论或未登录
 
@@ -58,8 +58,8 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 
 ## 历史记录
 
-![image-20200824174035168](assets/image-20200824174035168.png)
+![历史记录页](assets/image-20200824174035168.png)
 
 ## 个人中心
 
-![image-20200824174044718](assets/image-20200824174044718.png)
+![个人中心页](assets/image-20200824174044718.png)
